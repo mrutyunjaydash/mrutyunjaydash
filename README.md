@@ -1,17 +1,16 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mrutyunjay Dash!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <strong>I am Mrutyunjay Dash</strong> !
 ![GitHub followers](https://img.shields.io/github/followers/mrutyunjaydash?style=social)
 
 <br>
 
-<h2>MERN Stack Developer</h2>
-<h3>Tech Stacks experienced with are listed below:</h3>
+<h2>MERN STACK DEVELOPER</h2>
+<h3>I am a enthusiastic Open Source Contributor and a Web Developer</h3>
 <br>
----
 
 <h2>🧰 Toolbox</h2>
 <br><br>
 
-- 👨‍ Portfolio **https://mrutyunjaydash.github.io/Portfolio/**
+- 👨‍ Portfolio : **https://mrutyunjaydash.github.io/Portfolio/**
 <h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
 <table width="100">
