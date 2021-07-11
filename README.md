@@ -13,7 +13,7 @@
 - 👨‍ Portfolio : **https://mrutyunjaydash.github.io/Portfolio/**
 <h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
-<table width="100">
+<table width="100%">
 <tr>
     <td align='center' width="100">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
