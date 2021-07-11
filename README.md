@@ -30,6 +30,15 @@
     <td align='center' width="100">
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
+    <td align='center'>
+        <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
+    </td>
+    <td align='center'>
+        <img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '80' width = '80'/>
+    </td>
+    <td align='center'>
+        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
+    </td>
 </tr>
 <tr>
     <td align='center'>
