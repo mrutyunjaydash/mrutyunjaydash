@@ -69,7 +69,7 @@
         <p><strong>SQL</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' alt = 'express'/>
+        <img src = 'https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png' alt = 'express'/>
         <p><strong>EXPRESS</strong></p>
     </td>
     <td align='center'>
