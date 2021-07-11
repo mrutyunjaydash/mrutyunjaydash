@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <strong>I am Mrutyunjay Dash</strong> !
 ![GitHub followers](https://img.shields.io/github/followers/mrutyunjaydash?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/mrutyunjaydash0?style=social)
 
 <br>
 
