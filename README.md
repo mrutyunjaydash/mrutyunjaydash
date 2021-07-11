@@ -58,14 +58,14 @@
 ---
 <br><br>
 
-![Mrutyunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrutyunjaydash&count_private=true&theme=radical)
+![Mrutyunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrutyunjaydash&count_private=true&theme=vue)
 
 
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrutyunjaydash&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrutyunjaydash&theme=synthwave">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrutyunjaydash&theme=vue">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrutyunjaydash&theme=vue">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=mrutyunjaydash&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://activity-graph.herokuapp.com/graph?username=mrutyunjaydash&bg_color=f5f5f5&color=000000&line=00b300&point=000000">
 
 ---
