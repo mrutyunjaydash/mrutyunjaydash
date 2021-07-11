@@ -11,8 +11,8 @@
 <h2>🧰 Toolbox</h2>
 <br><br>
 
-- 👨‍ Check me out **https://mrutyunjaydash.github.io/Portfolio/**
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+- 👨‍ Portfolio **https://mrutyunjaydash.github.io/Portfolio/**
+<h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
 <table width="100">
 <tr>
@@ -23,18 +23,7 @@
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' alt = 'scikit-learn' height = '80' width = '80'/>
-    </td>
-    <td align='center' width="190">
-        <img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
-    </td>
-      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
@@ -42,14 +31,14 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
     </td>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '80' width = '80'/>
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
     </td>
@@ -58,12 +47,6 @@
     </td>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '80' width = '80'/>
     </td>
 </tr>
 </table>
