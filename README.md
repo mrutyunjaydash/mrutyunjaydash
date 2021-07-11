@@ -64,7 +64,7 @@
 </p>
 <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrutyunjaydash&theme=vue">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrutyunjaydash&theme=vue">
+<img align="left" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrutyunjaydash&theme=vue">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=mrutyunjaydash&bg_color=f5f5f5&color=000000&line=00b300&point=000000">
 
