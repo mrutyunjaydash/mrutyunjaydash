@@ -11,27 +11,27 @@
 <br><br>
 
 - 👨‍ Portfolio : **https://mrutyunjaydash.github.io/Portfolio/**
-<h2 align='left'>💻⚙ Tech Stacks ⚙💻</h2>
+<h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
 <table width="100%">
-<tr align='center'>
-    <td align='center' width="100">
+<tr>
+    <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
 </tr>
-<tr align='center'>
+<tr>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
     </td>
