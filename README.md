@@ -14,7 +14,7 @@
 <h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
 <table width="100%">
-<tr>
+<tr align='center'>
     <td align='center' width="100">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
@@ -31,7 +31,7 @@
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
 </tr>
-<tr>
+<tr align='center'>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
     </td>
