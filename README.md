@@ -61,23 +61,23 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo'/>
+        <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo' width="80"/>
         <p><strong>MONGO</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://image.shutterstock.com/image-photo/image-260nw-684826648.jpg' alt = 'sql'/>
+        <img src = 'https://image.shutterstock.com/image-photo/image-260nw-684826648.jpg' alt = 'sql' width="80"/>
         <p><strong>SQL</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png' alt = 'express'/>
+        <img src = 'https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png' alt = 'express' width="80"/>
         <p><strong>EXPRESS</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt = 'C++'/>
+        <img src = 'https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt = 'C++' width="80"/>
         <p><strong>C++</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg' alt = 'bootstrap'/>
+        <img src = 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg' alt = 'bootstrap' width="80"/>
         <p><strong>BOOTSTRAP</strong></p>
     </td>
 </tr>
