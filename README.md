@@ -11,7 +11,7 @@
 <br><br>
 
 - 👨‍ Portfolio : **https://mrutyunjaydash.github.io/Portfolio/**
-<h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
+<h2 align='left'>💻⚙ Tech Stacks ⚙💻</h2>
 
 <table width="100%">
 <tr align='center'>
