@@ -17,6 +17,7 @@
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        JAVASCRIPT
     </td>
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
