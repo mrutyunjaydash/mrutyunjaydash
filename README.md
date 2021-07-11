@@ -64,6 +64,22 @@
         <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo'/>
         <p><strong>MONGO</strong></p>
     </td>
+    <td align='center'>
+        <img src = 'https://image.shutterstock.com/image-photo/image-260nw-684826648.jpg' alt = 'sql'/>
+        <p><strong>SQL</strong></p>
+    </td>
+    <td align='center'>
+        <img src = 'https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' alt = 'express'/>
+        <p><strong>EXPRESS</strong></p>
+    </td>
+    <td align='center'>
+        <img src = 'https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png' alt = 'C++'/>
+        <p><strong>C++</strong></p>
+    </td>
+    <td align='center'>
+        <img src = 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg' alt = 'bootstrap'/>
+        <p><strong>BOOTSTRAP</strong></p>
+    </td>
 </tr>
 </table>
 
