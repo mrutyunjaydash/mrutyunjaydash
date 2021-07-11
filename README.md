@@ -3,8 +3,8 @@
 
 <br>
 
-<h3>MERN Stack Developer</h3>
-<h3>Professional experience with the technologies listed in the Tool Box below</h3>
+<h2>MERN Stack Developer</h2>
+<h3>Tech Stacks experienced with are listed below:</h3>
 <br>
 ---
 
