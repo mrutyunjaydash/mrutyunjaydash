@@ -56,8 +56,14 @@
     </td>
     <td align='center'>
         <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
+        <p><strong>NPM</strong></p>
     </td>
-    <p><strong>NPM</strong></p>
+</tr>
+<tr>
+    <td align='center'>
+        <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo'/>
+        <p><strong>MONGO</strong></p>
+    </td>
 </tr>
 </table>
 
