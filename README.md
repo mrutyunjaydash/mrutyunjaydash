@@ -18,26 +18,17 @@
     <td align='center' width="100">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-    <td align='center' width="100">
+    <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
-    <td align='center' width="100">
+    <td align='center'>
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
-    <td align='center' width="100">
+    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
-    <td align='center' width="100">
+    <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
-    </td>
-    <td align='center'>
-        <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
-    </td>
-    <td align='center'>
-        <img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '80' width = '80'/>
-    </td>
-    <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
     </td>
 </tr>
 <tr>
