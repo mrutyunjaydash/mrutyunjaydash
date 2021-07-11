@@ -15,14 +15,13 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-        <td>JAVASCRIPT</td>
     </td>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
     <td align='center'>
