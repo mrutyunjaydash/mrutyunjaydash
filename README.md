@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo' width="80" height = '80'/>
+        <img src = 'https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png' alt = 'mongo' width="100" height = '80'/>
         <p><strong>MONGO</strong></p>
     </td>
     <td align='center'>
@@ -77,7 +77,7 @@
         <p><strong>C++</strong></p>
     </td>
     <td align='center'>
-        <img src = 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg' alt = 'bootstrap' width="80" height = '80'/>
+        <img src = 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg' alt = 'bootstrap' width="100" height = '80'/>
         <p><strong>BOOTSTRAP</strong></p>
     </td>
 </tr>
