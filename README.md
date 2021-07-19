@@ -13,7 +13,7 @@
 <h2>🧰 Toolbox</h2>
 <br><br>
 
-- 👨‍ Portfolio : **https://mrutyunjaydash.github.io/Portfolio/**
+- 👨‍ Portfolio : **https://mrutyunjaydash.github.io/**
 - LinkedIn : **https://www.linkedin.com/in/mrutyunjay-dash-26b0108b/**
 <h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
