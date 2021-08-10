@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <strong>I am Mrutyunjay Dash</strong> !
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <strong>I am Mrutyunjay Dash</strong> !
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mrutyunjaydash0?style=social)
 
@@ -8,10 +8,7 @@
 <h3>I am a enthusiastic Open Source Contributor and a Web Developer</h3>
 <br>
 
-<h2>🧰 Toolbox</h2>
-<br><br>
-
-- 👨‍ Portfolio : **https://mrutyunjaydash.github.io/**
+- Portfolio : **https://mrutyunjaydash.github.io/**
 - LinkedIn : **https://www.linkedin.com/in/mrutyunjay-dash-26b0108b/**
 <h2 align='center'>💻⚙ Tech Stacks ⚙💻</h2>
 
