@@ -5,7 +5,7 @@
 <br>
 
 <h2>MERN STACK DEVELOPER</h2>
-<h3>I am a enthusiastic Open Source Contributor and a Web Developer</h3>
+<h3>I am a enthusiastic Open Source Contributor and a Java Backend Developer</h3>
 <br>
 
 - Portfolio : **https://mrutyunjaydash.github.io/**
